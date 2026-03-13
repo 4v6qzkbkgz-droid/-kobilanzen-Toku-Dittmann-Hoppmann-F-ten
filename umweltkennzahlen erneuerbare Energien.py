@@ -1,6 +1,6 @@
 import marimo
 
-__generated_with = "0.17.6"
+__generated_with = "0.19.1"
 app = marimo.App(width="medium")
 
 
@@ -8,7 +8,6 @@ app = marimo.App(width="medium")
 def _():
     import marimo as mo
     import matplotlib.pyplot as plt
-
     return mo, plt
 
 
@@ -46,7 +45,6 @@ def _(mo):
         fossil_choice,
         metric
     ])
-
     return (
         bio_slider,
         cb_bio,
@@ -138,7 +136,7 @@ def _(
     plt.tight_layout()
 
     mo.vstack([
-        mo.pyplot(fig),
+        fig,
         mo.callout(
             f"Gesamtproduktion: {total_production:.0f} GWh/Jahr\n"
             f"Emissionen erneuerbar: {total_emissions:.0f} tCO₂e/Jahr\n"
@@ -147,7 +145,6 @@ def _(
             kind="success" if co2_savings > 0 else "warning"
         )
     ])
-
     return
 
 
