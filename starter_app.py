@@ -145,7 +145,6 @@ def _(energie_auswahl, leistung_slider, mo):
     ## ⚙️ Parameter einstellen
 
     {mo.hstack([energie_auswahl, leistung_slider], justify="start", gap=2)}
-
     """)
     return
 
@@ -185,7 +184,6 @@ def _(ausgewaehlter_traeger, jahresertrag_kwh, leistung_kw, mo):
     |----------|------|
     | Installierte Leistung | **{leistung_kw:,.0f} kW** |
     | Jahresertrag | **{jahresertrag_kwh:,.0f} kWh/a** |
-
     """)
     return
 

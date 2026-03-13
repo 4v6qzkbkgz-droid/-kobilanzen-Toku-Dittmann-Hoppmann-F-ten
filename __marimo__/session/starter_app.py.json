@@ -1,0 +1,95 @@
+{
+  "version": "1",
+  "metadata": {
+    "marimo_version": "0.19.1"
+  },
+  "cells": [
+    {
+      "id": "MJUe",
+      "code_hash": "634929fc25c7f3d155f7a2ef4154f687",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h1 id=\"okobilanz-app-fur-erneuerbare-energien\">\ud83c\udf31 \u00d6kobilanz-App f\u00fcr Erneuerbare Energien</h1>\n<span class=\"paragraph\"><strong>Entwickelt von: [EUER GRUPPENNAME]</strong></span>\n<span class=\"paragraph\">Kurze Beschreibung eurer App hier einf\u00fcgen...</span>\n<hr /></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "RGSE",
+      "code_hash": "90a8b418c921fc61eace710d93c76c3b",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h2 id=\"visualisierung\">\ud83d\udcc8 Visualisierung</h2>\n<span class=\"paragraph\"><em>Hier kommen eure Diagramme hin...</em></span></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "Kclp",
+      "code_hash": "d7fc13d13923a64f3c27bb2413231df1",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><hr />\n<h2 id=\"i-hinweise\">\u2139\ufe0f Hinweise</h2>\n<span class=\"paragraph\"><strong>Datenquellen:</strong></span>\n<ul>\n<li>[Hier eure Quellen angeben]</li>\n</ul>\n<span class=\"paragraph\"><strong>Methodik:</strong></span>\n<ul>\n<li>[Hier eure Methodik beschreiben]</li>\n</ul>\n<hr />\n<span class=\"paragraph\"><em>Entwickelt f\u00fcr die Fachschule f\u00fcr Umweltschutztechnik</em></span></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "Hbol",
+      "code_hash": "b7067c9f0e6eba3d27511dab72ce76b9",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "vblA",
+      "code_hash": "25daeaab5f120d1989014a18113e0179",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "bkHC",
+      "code_hash": "cc82403d5671b9a9f5e7d84cfe08fd73",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "lEQa",
+      "code_hash": "abc165d2c930a78e621a724643451ff1",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "PKri",
+      "code_hash": "262b7eb0f62398d95228e7c672906ea9",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "Xref",
+      "code_hash": "cf159ce7a13ef7166a8c86c6552d1212",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "SFPL",
+      "code_hash": "38e871981bc3f4494e7fd83bd5610dc7",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "BYtC",
+      "code_hash": "ed862212b0e5870d649c5dfec7c5e06b",
+      "outputs": [],
+      "console": []
+    }
+  ]
+}
